@@ -1,0 +1,23 @@
+* {
+	box-sizing: border-box;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.flex-container {
+	padding: 15px;
+	background-color: #464646;
+}
+
+.flex-element {
+	padding: 50px;
+	margin: 10px;
+	background-color: #d43838;
+}
+
+
+
